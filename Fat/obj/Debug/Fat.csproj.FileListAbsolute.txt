@@ -1,0 +1,6 @@
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\bin\Debug\Fat.exe.config
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\bin\Debug\Fat.exe
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\bin\Debug\Fat.pdb
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\obj\Debug\Fat.csprojResolveAssemblyReference.cache
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\obj\Debug\Fat.exe
+c:\users\paulina\documents\visual studio 2013\Projects\Fat\Fat\obj\Debug\Fat.pdb
